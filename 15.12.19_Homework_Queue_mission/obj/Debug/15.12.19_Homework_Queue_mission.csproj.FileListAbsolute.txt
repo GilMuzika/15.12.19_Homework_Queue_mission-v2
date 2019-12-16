@@ -1,0 +1,10 @@
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\bin\Debug\15.12.19_Homework_Queue_mission.exe.config
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\bin\Debug\15.12.19_Homework_Queue_mission.exe
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\bin\Debug\15.12.19_Homework_Queue_mission.pdb
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\15.12.19_Homework_Queue_mission.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\_15._12._19_Homework_Queue_mission.MainForm.resources
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\_15._12._19_Homework_Queue_mission.Properties.Resources.resources
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\15.12.19_Homework_Queue_mission.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\15.12.19_Homework_Queue_mission.exe
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\15.12.19_Homework_Queue_mission.pdb
+C:\Users\Gil\source\repos\15.12.19_Homework_Queue_mission\15.12.19_Homework_Queue_mission\obj\Debug\_15._12._19_Homework_Queue_mission.Resource1.resources
